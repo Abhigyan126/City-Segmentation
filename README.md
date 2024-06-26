@@ -2,7 +2,8 @@
 
 This project involves the segmentation of city images using a Generative Adversarial Network (GAN) based on the Pix2Pix model. The model was trained for 350 epochs with a dataset of 3200 images.
 
-##Screenshot
+## Screenshot
+<br>
 <img width="620" alt="Screenshot 2024-06-26 at 11 10 08 AM" src="https://github.com/Abhigyan126/City-Segmentation/assets/108809711/6705ba3e-7aac-49ef-8bb6-11f25ff6d877">
 
 <br>
